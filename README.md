@@ -1,6 +1,6 @@
 - ☠️ Hi, I’m @rifatNR
-- 👀 I’m interested in Game|Web|App Design, Development & Other Creative stuffs
-- 🌱 I’m currently learning Unity, Flutter
+- 👀 I’m interested in Game|Web|App|CGI Design, Development & Other Creative stuffs
+- 🌱 I’m currently learning Unity, Blender, Flutter
 - 💞️ I’m looking to collaborate on React, Laravel, Unity
 - 📫 How to reach me: Just Email me on Rifatnoor92@gmail.com
 - 🏴‍☠️ Ohw.. yes. I'm a big One Piece Fan.
